@@ -1,12 +1,15 @@
-GameBoy - online
-================
- 
-GameBoy emulator online 
+# GBOnline
 
-[Play](http://rafaelcastrocouto.github.com/gbonline "Play")
+[Play GameBoy Online](http://rafaelcastrocouto.github.com/gbonline "Play")
+
+============
 
   **Credits:**
   
-  Emulator by rafaelcastrocouto: http://www.codebase.es/jsgb/
+ * Emulator: [Pedro Ladaria](http://www.codebase.es/jsgb/)
   
-  Style by Anton Essential: http://codepen.io/AntonEssenetial/pen/trlfu
+ * Style: [Murat](http://codepen.io/AntonEssenetial/details/trlfu)
+  
+ * Load Animation: [Heero](http://codepen.io/heero/details/wylhv)
+
+Autor: rafaelcastrocouto
